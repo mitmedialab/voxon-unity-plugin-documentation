@@ -44,6 +44,3 @@ Your root folder should contain the following:
 I have not gotten a project to work whose root folder is not structured exactly like this.
 
 If, upon running your unity file on the voxon, you are prompted to use either display 1 or display 2, you want display 2.
-
-
-The included example file should display an animated fish, which swims across the display. 
